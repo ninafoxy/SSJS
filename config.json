@@ -2,9 +2,9 @@
 {
     "logFile": "log.txt",
     "webhookURLs": {
-      "smalllogs": "your webhook URL here",
-      "otherlogs": "your webhook URL here",
-      "timedoutlogs": "your webhook URL here"
+      "smalllogs": "https://discordapp.com/api/webhooks/1444315391504547962/0OACZtDvBRFDp1ml4hatcF6xS0b3oPiAx7iNe1DpdBTpojWyDTE68Ja6lnBNsJaLuVRu",
+      "otherlogs": "https://discordapp.com/api/webhooks/1444315476422430831/KkWpBRvNr3vE3lNdyfreQNkIXHdE4rvw1GLa-4lHdreWND38XqhcUFa_t82VhD4waZb9",
+      "timedoutlogs": "https://discordapp.com/api/webhooks/1444317203007668304/WfEj8od_4EdhuoPzBqYjPir04CvNVKr2LSIlwEL1ld6BueAJk2SyWKkN29a8AjgNpd1q"
     },
     "vrchatOSCHost": "localhost",
     "vrchatOSCPort": 9000,
