@@ -1,0 +1,16 @@
+
+{
+    "logFile": "log.txt",
+    "webhookURLs": {
+      "smalllogs": "your webhook URL here",
+      "otherlogs": "your webhook URL here",
+      "timedoutlogs": "your webhook URL here"
+    },
+    "vrchatOSCHost": "localhost",
+    "vrchatOSCPort": 9000,
+    "serverPort": 3000,
+    "sendToDiscord": true, 
+    "sendToVRChat": false,
+    "sentCrashToVRChat": false
+    
+  }
